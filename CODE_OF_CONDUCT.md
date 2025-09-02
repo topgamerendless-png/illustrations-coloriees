@@ -1,4 +1,4 @@
-# Code de Conduite
+# Code of Conduct
 
 Nous nous engageons à fournir un environnement amical et inclusif pour tous.
 
