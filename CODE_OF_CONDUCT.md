@@ -1,6 +1,6 @@
 # Code de Conduite
 
-Nous nous engageons à fournir un environnement convivial et inclusif pour tous.
+Nous nous engageons à fournir un environnement amical et inclusif pour tous.
 
 ## Nos engagements
 - Faire preuve de respect et de courtoisie envers tous les participants.
