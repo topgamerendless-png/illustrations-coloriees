@@ -10,3 +10,6 @@ Nous nous engageons à fournir un environnement amical, inclusif et respectueux 
 
 ## Comment signaler un comportement inapproprié
 Si vous êtes témoin d'un comportement inapproprié, veuillez contacter un mainteneur du projet ou utiliser les canaux de communication appropriés.
+
+## Reporting Inappropriate Behavior
+If you witness inappropriate behavior, please contact a project maintainer or use the appropriate communication channels.
